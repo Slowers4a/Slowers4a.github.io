@@ -208,6 +208,14 @@ header a {
   font-weight: bold;
 }
 
+.socials {
+  font-size: 1.2em;
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+  text-align: center;
+}
+
 .copy {
   display: flex;
   justify-content: flex-end;
