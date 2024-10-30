@@ -1,7 +1,7 @@
 
 
 ## ✨ Fages
-Link : https://slowersmd.github.io/
+Link : https://slowers4a.github.io
 
 ---
 
